@@ -1,4 +1,3 @@
-# battlechessgameofkings
 Issues for the game BattleChess: Game of Kings
 ==============================================
 
