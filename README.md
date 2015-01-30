@@ -5,6 +5,8 @@ This is the README for BattleChess: Game of Kings
 
 Please use this repository to report bugs for BattleChess: Game of Kings.
 
+[To jump straight to the bug list, click here!!](https://github.com/Olde-Skuul/battlechessgameofkings/issues)
+
 The language used for this tracker is English.  If this is a challenge, please consider using an  online translator to convert your post into English.  This does not extend to system information, but rather, only to actual report text.
 
 Conduct
